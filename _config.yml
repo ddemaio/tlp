@@ -1,7 +1,7 @@
 lang: en
-title: openSUSE Template
+title: Teacher Lesson Plan
 title_short: Template
-description: Template for openSUSE Websites
+description: This website is being developed to create a contributor culture. This website will host lesson plans regarding openSUSE, open source techology and community development.
 email: admin@opensuse.org
 copyright: '© 2021 openSUSE contributors'
 baseurl: ""
